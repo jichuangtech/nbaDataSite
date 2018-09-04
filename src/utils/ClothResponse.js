@@ -1,0 +1,6 @@
+const  ACCESS_TOKEN_NOT_FOUND = 101;
+const TOKEN_INVALID = 102;
+
+export default {
+  ACCESS_TOKEN_NOT_FOUND, TOKEN_INVALID
+}
