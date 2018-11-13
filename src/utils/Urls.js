@@ -1,5 +1,5 @@
 const PRE_FIX = 'https://www.jichuangtech.site/clothshopserver';
-const NBA_PRE_FIX = 'https://www.jichuangtech.site/nbadataserver';
+const NBA_PRE_FIX = 'https://www.jichuangtech.site/nbaDataServer';
 // const PRE_FIX = 'http://localhost:8070';
 const ROUTER_PREFIX = '';
 // const ROUTER_PREFIX = "/clothShopCMS";
